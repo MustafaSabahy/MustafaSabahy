@@ -1,4 +1,4 @@
-Hi, I'm Sabahy 👋🏻. I'm an iOS Engineer  who is passionate about mobile development 📱 and open source. Also I like exploring Flutter 💻 Technology.
+Hi, I'm Sabahy 👋🏻. I'm an iOS Engineer  who is passionate about mobile development 📱 and open source. Also I like exploring new 💻 Technology.
 
 - 🧑🏻‍💻 I’m currently working on iOS Apps
 - 💬 Ask me about: tech;
