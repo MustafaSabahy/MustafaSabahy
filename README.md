@@ -1,8 +1,7 @@
-Hi, I'm Sabahy 👋🏻. 
+Hi, I'm Sabahy 👋. 
 ==============================
-iOS Engineer  who is passionate about mobile development 📱 
-and open source. Also I like exploring new 💻 Technology.
-
+iOS software engineer  who is passionate about mobile development 📱 
+-------------
 - 🧑🏻‍💻 I’m currently working on iOS Apps
 - 💬 Ask me about: tech;
 -  ⚡ Languages: Swift, Dart, c++, java;
