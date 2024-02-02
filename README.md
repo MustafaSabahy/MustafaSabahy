@@ -4,7 +4,7 @@ iOS software engineer  who is passionate about mobile development 📱
 -------------
 - 🧑🏻‍💻 I’m currently working on iOS Apps
 - 💬 Ask me about: tech;
--  ⚡ Languages: Swift, Dart, c++, java;
+-  ⚡ Languages: Swift, c++, php;
 - 🔗 Let's Connect 👇🏻
 ---------------------------------------
 <a title="Linkedin Profile" href="https://www.linkedin.com/in/mustafa-sabahy-763934124/t"><img alt="LinkedIn Profile" src="https://github.com/MustafaSabahy/sabahy/blob/main/linkedin.png" width="130"/></a>
